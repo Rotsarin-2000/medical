@@ -1,0 +1,4 @@
+[26-Nov-2024 01:21:13 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting "->" or "?->" or "{" or "[" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserview/fetch_employee_data.php on line 26
+[26-Nov-2024 01:21:14 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting "->" or "?->" or "{" or "[" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserview/fetch_employee_data.php on line 26
+[26-Nov-2024 01:21:14 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting "->" or "?->" or "{" or "[" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserview/fetch_employee_data.php on line 26
+[06-Dec-2024 01:18:40 UTC] PHP Warning:  Undefined array key "workage_year" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserview/fetch_employee_data.php on line 30

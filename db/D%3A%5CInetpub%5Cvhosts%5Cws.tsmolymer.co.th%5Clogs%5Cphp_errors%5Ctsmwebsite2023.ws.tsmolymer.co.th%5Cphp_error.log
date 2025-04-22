@@ -1,0 +1,141 @@
+[17-Mar-2025 03:36:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 75
+[17-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:42:19 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:42:19 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:42:20 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:42:20 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:42:58 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:42:58 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:42:58 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:42:58 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:43:00 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:43:00 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:43:00 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:43:00 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:43:21 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:43:21 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 152
+[17-Mar-2025 08:43:59 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:43:59 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:00 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:00 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:44:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:45:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:45:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:45:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:45:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 150
+[17-Mar-2025 08:53:31 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 109
+[17-Mar-2025 08:55:13 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 109
+[17-Mar-2025 08:55:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:55:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:55:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:55:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:55:21 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:55:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:55:21 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:55:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:27 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 109
+[17-Mar-2025 08:59:35 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:35 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:35 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:35 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:48 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:48 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:48 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:48 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 08:59:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:00:57 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 109
+[17-Mar-2025 09:01:18 UTC] PHP Warning:  Undefined variable $response in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 109
+[17-Mar-2025 09:01:19 UTC] PHP Warning:  Undefined variable $response in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 109
+[17-Mar-2025 09:02:24 UTC] PHP Warning:  Undefined variable $response in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:24 UTC] PHP Warning:  Undefined variable $response in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:24 UTC] PHP Warning:  Undefined variable $response in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:24 UTC] PHP Warning:  Undefined variable $response in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:40 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:40 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:41 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:41 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:42 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:42 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:42 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:42 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:44 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:44 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:44 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:44 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:02:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:03:40 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:03:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:03:40 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:03:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:03:40 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:03:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:03:40 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:03:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Undefined variable $response_chk in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 154
+[17-Mar-2025 09:05:32 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 155
+[17-Mar-2025 09:05:32 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 155
+[17-Mar-2025 09:06:43 UTC] PHP Warning:  Undefined array key "department_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 155
+[17-Mar-2025 09:06:43 UTC] PHP Warning:  Undefined array key "name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/apit.php on line 155

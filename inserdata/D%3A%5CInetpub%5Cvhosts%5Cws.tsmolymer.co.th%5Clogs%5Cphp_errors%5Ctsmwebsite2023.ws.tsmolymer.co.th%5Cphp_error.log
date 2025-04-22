@@ -1,0 +1,49 @@
+[21-Nov-2024 04:21:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'tsmmedicaldb'@'%' to database 'sm_medical_2023' in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php:7
+Stack trace:
+#0 /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php(7): mysqli_connect()
+#1 /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php(2): include('...')
+#2 {main}
+  thrown in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php on line 7
+[21-Nov-2024 04:22:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'tsmmedicaldb'@'%' to database 'sm_medical_2023' in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php:7
+Stack trace:
+#0 /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php(7): mysqli_connect()
+#1 /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php(2): include('...')
+#2 {main}
+  thrown in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php on line 7
+[21-Nov-2024 04:22:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'tsmmedicaldb'@'%' to database 'sm_medical_2023' in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php:7
+Stack trace:
+#0 /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php(7): mysqli_connect()
+#1 /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php(2): include('...')
+#2 {main}
+  thrown in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php on line 7
+[21-Nov-2024 04:22:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'tsmmedicaldb'@'%' to database 'sm_medical_2023' in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php:7
+Stack trace:
+#0 /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php(7): mysqli_connect()
+#1 /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php(2): include('...')
+#2 {main}
+  thrown in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/db/conn.php on line 7
+[21-Nov-2024 04:23:33 UTC] PHP Warning:  include(../tsm_medical/db/conn.php): Failed to open stream: No such file or directory in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php on line 2
+[21-Nov-2024 04:23:33 UTC] PHP Warning:  include(): Failed opening '../tsm_medical/db/conn.php' for inclusion (include_path='.:/opt/plesk/php/8.2/share/pear') in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php on line 2
+[21-Nov-2024 04:23:33 UTC] PHP Warning:  Undefined variable $conn in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php on line 4
+[21-Nov-2024 04:24:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'tsmmedicaldb'@'%' to database 'sm_medical_2023' in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php:7
+Stack trace:
+#0 /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php(7): mysqli_connect()
+#1 {main}
+  thrown in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php on line 7
+[21-Nov-2024 04:25:16 UTC] PHP Warning:  Undefined variable $conn in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/permission.php on line 9
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "d_id" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 8
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "date" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 9
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "year" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 10
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "employee_id" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 11
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "employee_name" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 12
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "department" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 13
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "start_work" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 14
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "duo_work" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 15
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "age_year" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 16
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "birthday" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 17
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "amount" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 18
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "value" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 19
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "balance" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 20
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "remark_memo" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 21
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "price" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 22
+[21-Nov-2024 06:03:27 UTC] PHP Warning:  Undefined array key "HTTP_REFERER" in /var/www/vhosts/ts.tsmolymer.co.th/httpdocs/tsm_medical/inserdata/medical_create.php on line 54
